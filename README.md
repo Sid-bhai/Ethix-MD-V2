@@ -20,7 +20,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
-<a href='https://negative-jacki-goutammallick516-35fc1e14.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://paircode.onrender.com' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## ðŸš€ Deployment Options
 
@@ -75,7 +75,7 @@ You can also deploy the bot directly on your Android device using Termux. Hereâ€
    Change into the project directory:
 
    ```bash
-   cd Ethix-MD
+   cd Ethix-MD-V2
    ```
 
 5. **Set the `SESSION_ID` in the `.env` File:**
